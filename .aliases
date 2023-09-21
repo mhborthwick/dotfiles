@@ -2,3 +2,6 @@
 
 # Shortcuts
 alias c="cd ~/CODE"
+
+# git
+alias g="git"
