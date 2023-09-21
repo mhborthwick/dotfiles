@@ -14,7 +14,7 @@ defaultBranch = main
 st = status -s
 
 # Add all changes (interactive mode)
-aap = add . -p
+aai = add . -p
 
 # Add all changes
 aa = add .
