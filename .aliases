@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+# Shortcuts
+alias c="cd ~/CODE"
