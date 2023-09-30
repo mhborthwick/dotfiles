@@ -5,3 +5,11 @@ alias c="cd ~/CODE"
 
 # git
 alias g="git"
+
+alias e="exit"
+
+# Easier navigation
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
