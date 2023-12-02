@@ -3,7 +3,6 @@
 # Shortcuts
 alias c="clear"
 
-# git
 alias g="git"
 
 alias e="exit"
