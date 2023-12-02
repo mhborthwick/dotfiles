@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 # Shortcuts
-alias c="cd ~/CODE"
+alias c="clear"
 
 # git
 alias g="git"

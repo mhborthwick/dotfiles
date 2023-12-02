@@ -4,3 +4,8 @@
 function mkd() {
   mkdir -p "$@" && cd "$_"
 }
+
+# Go to project (assumes project lives in CODE dir)
+function goto() {
+  cd ~/CODE/"$1" || return
+}
