@@ -6,3 +6,9 @@ alias cl="clear"
 
 # git
 alias g="git"
+
+# kubectl
+alias k="kubectl"
+
+# docker
+alias d="docker"
