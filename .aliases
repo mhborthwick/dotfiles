@@ -1,2 +1,8 @@
+# cursor
 alias c="cursor"
+
+# clear
 alias cl="clear"
+
+# git
+alias g="git"
