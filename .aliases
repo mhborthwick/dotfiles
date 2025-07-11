@@ -12,3 +12,6 @@ alias k="kubectl"
 
 # docker
 alias d="docker"
+
+# npm run
+alias nr="npm run"
