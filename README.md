@@ -6,7 +6,7 @@
 
 ## Setup
 
-- Create a `.env` file
+- `.env` file
 
   | Variable  | Description           |
   | --------- | --------------------- |
