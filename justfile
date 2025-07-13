@@ -1,5 +1,5 @@
 set dotenv-load
 
-create_symlinks:
+sync_dotfiles:
 	ln -sf /Users/$USER/$WORKSPACE/dotfiles/.aliases ~/.aliases
 	ln -sf /Users/$USER/$WORKSPACE/dotfiles/.gitconfig ~/.gitconfig
