@@ -1,0 +1,25 @@
+[user]
+name = Mike Borthwick
+email = mhborthwick@gmail.com
+
+[github]
+user = mhborthwick
+
+[init]
+defaultBranch = main
+
+[alias]
+# status using short format
+st = status -s
+
+# log --oneline
+lg = log --oneline
+
+# add all
+aa = add -A
+
+# add new file
+an = add -N
+
+# commit -m
+cm = commit -m
