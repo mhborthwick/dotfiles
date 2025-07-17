@@ -9,7 +9,7 @@ user = mhborthwick
 defaultBranch = main
 
 [alias]
-# status using short format
+# status -s
 st = status -s
 
 # log --oneline
@@ -41,3 +41,6 @@ psf = push --force-with-lease
 
 # rebase
 r = rebase
+
+# diff
+df = diff
