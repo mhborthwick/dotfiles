@@ -44,3 +44,6 @@ r = rebase
 
 # diff
 df = diff
+
+# reset
+rs = reset
