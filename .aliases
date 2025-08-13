@@ -18,3 +18,6 @@ alias nr="npm run"
 
 # navigation
 alias ..="cd .."
+
+# exit
+alias x="exit"
