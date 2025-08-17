@@ -47,3 +47,6 @@ df = diff
 
 # reset
 rs = reset
+
+# clone
+cl = clone
