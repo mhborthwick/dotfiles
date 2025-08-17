@@ -16,6 +16,9 @@ alias d="docker"
 # npm run
 alias nr="npm run"
 
+# pnpm
+alias pn="pnpm"
+
 # navigation
 alias ..="cd .."
 
