@@ -40,7 +40,7 @@ pl = pull
 psf = push --force-with-lease
 
 # rebase
-r = rebase
+rb = rebase
 
 # diff
 df = diff
