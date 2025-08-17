@@ -50,3 +50,6 @@ rs = reset
 
 # clone
 cl = clone
+
+# amend
+am = commit --amend
