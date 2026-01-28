@@ -1,0 +1,57 @@
+[user]
+name = Mike Borthwick
+email = mhborthwick@gmail.com
+[includeIf "gitdir:~/work/"]
+path = ~/.gitconfig-work
+
+[github]
+user = mhborthwick
+
+[init]
+defaultBranch = main
+
+[alias]
+# status -s
+st = status -s
+
+# log --oneline
+lg = log --oneline
+
+# add all
+aa = add -A
+
+# add new file
+an = add -N
+
+# commit -m
+cm = commit -m
+
+# checkout
+co = checkout
+
+# checkout -b
+cb = checkout -b
+
+# push
+ps = push
+
+# pull
+pl = pull
+
+# push force-with-lease
+psf = push --force-with-lease
+
+# rebase
+rb = rebase
+
+# diff
+df = diff
+
+# reset
+rs = reset
+
+# clone
+cl = clone
+
+# amend
+am = commit --amend
