@@ -11,17 +11,20 @@ user = mhborthwick
 defaultBranch = main
 
 [alias]
-# status -s
-st = status -s
-
-# log --oneline
-lg = log --oneline
-
 # add all
 aa = add -A
 
+# amend
+amend = commit --amend
+
 # add new file
 an = add -N
+
+# checkout -b
+cb = checkout -b
+
+# clone
+cl = clone
 
 # commit -m
 cm = commit -m
@@ -29,14 +32,17 @@ cm = commit -m
 # checkout
 co = checkout
 
-# checkout -b
-cb = checkout -b
+# diff
+df = diff
 
-# push
-ps = push
+# log --oneline
+lg = log --oneline
 
 # pull
 pl = pull
+
+# push
+ps = push
 
 # push force-with-lease
 psf = push --force-with-lease
@@ -44,14 +50,8 @@ psf = push --force-with-lease
 # rebase
 rb = rebase
 
-# diff
-df = diff
-
 # reset
 rs = reset
 
-# clone
-cl = clone
-
-# amend
-amend = commit --amend
+# status -s
+st = status -s
