@@ -1,5 +1,9 @@
-# Note: Symlinks assume ~/Workspace directory exists
-ln -sf /Users/$USER/Workspace/dotfiles/ghostty /Users/$USER/.config/ghostty
-ln -sf /Users/$USER/Workspace/dotfiles/git/.gitconfig /Users/$USER/.gitconfig
-ln -sf /Users/$USER/Workspace/dotfiles/git/.gitconfig-work /Users/$USER/.gitconfig-work
+# Note: Symlinks assume $WORKSPACE is set (Personal = Workspace, Work = Workspace-work)
+
+# ghostty
+ln -sf /Users/$USER/$WORKSPACE/dotfiles/ghostty /Users/$USER/.config/ghostty
+
+# git
+ln -sf /Users/$USER/$WORKSPACE/dotfiles/git/.gitconfig /Users/$USER/.gitconfig
+ln -sf /Users/$USER/$WORKSPACE/dotfiles/git/.gitconfig-work /Users/$USER/.gitconfig-work
 
