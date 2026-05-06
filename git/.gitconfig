@@ -54,4 +54,4 @@ rs = reset
 cl = clone
 
 # amend
-am = commit --amend
+amend = commit --amend
