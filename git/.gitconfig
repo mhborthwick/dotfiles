@@ -55,3 +55,6 @@ rs = reset
 
 # status -s
 st = status -s
+
+# worktree
+wt = worktree
