@@ -23,8 +23,11 @@ an = add -N
 # checkout -b
 cb = checkout -b
 
-# clone
-cl = clone
+# clean -fd
+cl = clean -fd
+
+# clean -fdn (dry run)
+cln = clean -fdn
 
 # commit -m
 cm = commit -m
