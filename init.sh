@@ -9,3 +9,6 @@ ln -sf /Users/$USER/$WORKSPACE/dotfiles/git/.gitconfig-work /Users/$USER/.gitcon
 
 # startship
 ln -sf /Users/$USER/$WORKSPACE/dotfiles/starship/starship.toml /Users/$USER/.config/starship.toml
+
+# nvim
+ln -sf /Users/$USER/$WORKSPACE/dotfiles/nvim /Users/$USER/.config/nvim
