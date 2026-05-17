@@ -4,6 +4,9 @@ alias g='git'
 # shortcuts
 alias cl='clear'
 alias x='exit'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
 
 # eza
 alias ls='eza -a --icons --group-directories-first'
