@@ -1,5 +1,12 @@
+# styles
 font-size = 24
 font-family = "JetBrainsMono Nerd Font Mono"
 shell-integration-features = no-cursor
 cursor-style = block
 cursor-style-blink = true
+
+# keybind
+# keybind = super+shift+h=goto_split:left
+# keybind = super+shift+l=goto_split:right
+# keybind = super+shift+k=goto_split:up
+# keybind = super+shift+j=goto_split:down
