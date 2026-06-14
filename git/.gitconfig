@@ -9,6 +9,8 @@ user = mhborthwick
 
 [init]
 defaultBranch = main
+[includeIf "gitdir:~/Workspace-work"]
+path = ~/.gitconfig-work
 
 [alias]
 # add all
