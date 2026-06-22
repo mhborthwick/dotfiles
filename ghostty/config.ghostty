@@ -1,3 +1,6 @@
+# scrollback
+scrollback-limit = 10000
+
 # styles
 font-size = 24
 font-family = "JetBrainsMono Nerd Font Mono"
