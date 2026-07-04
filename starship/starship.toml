@@ -1,2 +1,21 @@
+[directory]
+format = "in [ $path]($style)[$read_only]($read_only_style) "
+style = "dimmed cyan"
+
 [cmd_duration]
 format = "[$duration]($style) "
+
+[gcloud]
+disabled = true
+
+[kubernetes]
+disabled = false
+format = "on [$symbol$context]($style) "
+style = "dimmed yellow"
+
+[git_branch]
+format = "on [$symbol$branch(:$remote_branch)]($style) "
+style = "dimmed purple"
+
+[git_status]
+style = "dimmed red"
