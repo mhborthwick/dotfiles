@@ -19,3 +19,9 @@ style = "dimmed purple"
 
 [git_status]
 style = "dimmed red"
+
+[package]
+style = "dimmed 208"
+
+[nodejs]
+style = "dimmed green"
