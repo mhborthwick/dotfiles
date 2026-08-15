@@ -14,6 +14,9 @@ alias ll='eza -la --git'
 alias la='eza -a'
 alias lt='eza -a --tree --level=2 --icons --group-directories-first'
 
+# bat
+alias cat='bat'
+
 # cursor
 alias c='cursor'
 
