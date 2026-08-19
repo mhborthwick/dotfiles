@@ -1,5 +1,5 @@
 # scrollback
-scrollback-limit = 10000
+scrollback-limit = 10000000
 
 # styles
 font-size = 24
